@@ -103,7 +103,7 @@ function Contact() {
       </form>
       <footer>
         <p>&copy; 2023 Thank You For Visiting </p>
-        <a href="https://github.com/SudoSapien21" target="_blank" rel= "Sudo"> Github: SudoSapien21</a>  
+        <a href="https://github.com/SudoSapien21" target="_blank" rel= "noreferrer"> Github: SudoSapien21</a>  
       </footer>
     </div>
   );

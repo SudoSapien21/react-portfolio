@@ -48,4 +48,4 @@ GitHub: [https://github.com/SudoSapien21](https://github.com/https://github.com/
 
 
 
-![Demonstration of the finished Portfolio.](./Assets/Demo1.gif)
+![Demonstration of the finished Portfolio.](./reactportfolio.gif)
